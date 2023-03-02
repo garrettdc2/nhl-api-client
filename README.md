@@ -6,7 +6,7 @@
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-url]: https://github.com/garrettdc2/NhlNotificationServiceLambda/blob/main/LICENSE
 [build-badge]: https://github.com/garrettdc2/nhl-api-client/actions/workflows/build.yml/badge.svg?branch=main
-[build-url]: https://github.com/garrettdc2/nhl-api-client/actions/workflows/build.yml/badge.svg
+[build-url]: https://github.com/garrettdc2/nhl-api-client/actions/workflows/build.yml
 
 
 ## About
