@@ -2,6 +2,11 @@
 name = "nhl-api-client"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+authors = ["Garrett Chesnut"]
+description = "This is a passion project used to learn Rust. End goal is for this to be library that can easily interface with NHL API."
+repository = "https://github.com/garrettdc2/nhl-api-client"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
